@@ -16,7 +16,9 @@ pip install pygame
 see .bat or sh - to run different py version, or x32/64 because libraries need... or was install in diferent py folder, itc
 
 
-### todo, learn
+### todo
+review why so slow
+### learn
 
 
 https://www.pygame.org/wiki/tutorials
